@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yumna\\source\\repos\\c5 problem 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B854B1-0FC0-4A79-9F44-DB0F570A5201}|c5 problem 4\\c5 problem 4.vcxproj|C:\\Users\\yumna\\source\\repos\\c5 problem 4\\c5 problem 4\\c5 problem 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61B854B1-0FC0-4A79-9F44-DB0F570A5201}|c5 problem 4\\c5 problem 4.vcxproj|solutionrelative:c5 problem 4\\c5 problem 4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "c5 problem 4.cpp",
+              "DocumentMoniker": "C:\\Users\\yumna\\source\\repos\\c5 problem 4\\c5 problem 4\\c5 problem 4.cpp",
+              "RelativeDocumentMoniker": "c5 problem 4\\c5 problem 4.cpp",
+              "ToolTip": "C:\\Users\\yumna\\source\\repos\\c5 problem 4\\c5 problem 4\\c5 problem 4.cpp",
+              "RelativeToolTip": "c5 problem 4\\c5 problem 4.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-22T16:17:28.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
